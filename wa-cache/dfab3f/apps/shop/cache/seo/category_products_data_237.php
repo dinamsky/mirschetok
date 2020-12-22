@@ -1,0 +1,1 @@
+a:3:{s:4:"time";i:1608526696;s:3:"ttl";d:635040;s:5:"value";a:1:{s:84:"{"storefront":"mirschetok.ru\/*","default_currency":"RUB","frontend_currency":"RUB"}";a:5:{s:14:"products_count";i:907;s:9:"min_price";s:11:"300 руб.";s:26:"min_price_without_currency";s:3:"300";s:9:"max_price";s:13:"7 500 руб.";s:26:"max_price_without_currency";s:4:"7500";}}}
